@@ -14,5 +14,3 @@ This project explores Netflix data using SQL to generate business insights.
 - PostgreSQL / MySQL
 - Data analysis techniques
 
-Add project README
-s
