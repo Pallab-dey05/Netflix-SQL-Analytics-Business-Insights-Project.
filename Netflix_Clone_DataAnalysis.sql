@@ -24,7 +24,7 @@ select
 from netflix;
 
 
--- 15 Business Problems
+-- 14 Business Problems
 
 
 -- Q1. Count the number of Movies vs TV Shows.
@@ -191,5 +191,6 @@ select
 	count(*) as total_content
 from new_table
 group by 1;
+
 
 
