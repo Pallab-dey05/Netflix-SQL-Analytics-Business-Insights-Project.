@@ -14,4 +14,4 @@ This project explores Netflix data using SQL to generate business insights.
 - PostgreSQL 
 - Data analysis techniques
 
-![Netflix Logo]()
+![Netflix Logo](Netflix Logo.png)
