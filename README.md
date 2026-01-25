@@ -5,7 +5,8 @@ README.md
 Logo
 
 ## Overview
-This project explores Netflix data using SQL to generate business insights.
+
+This project delivers a comprehensive SQL-based analysis of Netflix movies and TV shows data. The objective is to extract actionable insights by performing structured data exploration, querying, and analytical processing. The analysis focuses on solving defined business problems through data-driven techniques. This README documents the project objectives, business questions addressed, methodologies applied, key analytical findings, and overall conclusions derived from the dataset.
 
 ## Objectives
 - Analyze content distribution
