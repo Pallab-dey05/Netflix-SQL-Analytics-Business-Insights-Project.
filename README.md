@@ -18,7 +18,7 @@ This project delivers a comprehensive SQL-based analysis of Netflix movies and T
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset.
-- <b>Dataset Link:</b> [https://github.com/Pallab-dey05/Netflix-SQL-Analytics-Business-Insights-Project./blob/main/Netflix%20Database.csv]
+- <b>Dataset Link:</b> 
 
 ## Tools Used
 - SQL
