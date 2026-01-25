@@ -1,7 +1,6 @@
 README.md
 
-# Netflix SQL Analytics – Business Insights Project
-<br>
+# Netflix SQL Analytics – Business Insights Project<br>
 Logo
 
 ## Overview
