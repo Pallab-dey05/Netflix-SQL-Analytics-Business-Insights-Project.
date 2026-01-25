@@ -21,8 +21,16 @@ The data for this project is sourced from the Kaggle dataset.
 - <b>Dataset Link:</b> 
 
 ## Tools Used
-- SQL
 - PostgreSQL 
 - Data analysis techniques
 
+## Findings and Conclusion
+- Content Distribution: The dataset reflects a diverse portfolio of Movies and TV Shows across multiple genres and content ratings, indicating broad content variety and platform-wide audience coverage.
 
+- Content Ratings Analysis: Evaluation of the most frequently occurring ratings provides insight into audience targeting strategies and overall content classification trends.
+
+- Geographical Insights: Analysis of country-level production highlights leading content-producing regions, with specific emphasis on India’s average content releases, demonstrating regional contribution patterns and global distribution dynamics.
+
+- Content Categorization: Keyword-based categorization enables deeper understanding of content themes and characteristics, supporting structured segmentation and enhanced content analysis.
+
+This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
