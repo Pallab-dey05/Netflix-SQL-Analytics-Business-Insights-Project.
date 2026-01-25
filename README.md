@@ -20,10 +20,6 @@ This project delivers a comprehensive SQL-based analysis of Netflix movies and T
 The data for this project is sourced from the Kaggle dataset.
 - <b>Dataset Link:</b> 
 
-## Tools Used
-- PostgreSQL 
-- Data analysis techniques
-
 ## Findings and Conclusion
 - Content Distribution: The dataset reflects a diverse portfolio of Movies and TV Shows across multiple genres and content ratings, indicating broad content variety and platform-wide audience coverage.
 
@@ -34,3 +30,6 @@ The data for this project is sourced from the Kaggle dataset.
 - Content Categorization: Keyword-based categorization enables deeper understanding of content themes and characteristics, supporting structured segmentation and enhanced content analysis.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+## Author - Pallab Dey
+This project forms a part of my professional portfolio and demonstrates the SQL competencies relevant to data analyst roles. It reflects practical application of data querying, analysis, and insight generation techniques.
