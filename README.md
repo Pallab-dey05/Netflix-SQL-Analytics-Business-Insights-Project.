@@ -1,7 +1,10 @@
 README.md
 
 # Netflix SQL Analytics – Business Insights Project
+<br>
+Logo
 
+## Overview
 This project explores Netflix data using SQL to generate business insights.
 
 ## Objectives
