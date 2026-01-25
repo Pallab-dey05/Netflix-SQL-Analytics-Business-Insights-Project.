@@ -16,6 +16,10 @@ This project delivers a comprehensive SQL-based analysis of Netflix movies and T
 
 - Explored and categorized content using defined criteria and keyword-based analysis to enable deeper content segmentation and insight generation.
 
+## Dataset
+The data for this project is sourced from the Kaggle dataset.
+- <b>Dataset Link:</b>
+
 ## Tools Used
 - SQL
 - PostgreSQL 
