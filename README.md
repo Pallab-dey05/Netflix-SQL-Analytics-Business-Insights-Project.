@@ -18,7 +18,8 @@ This project delivers a comprehensive SQL-based analysis of Netflix movies and T
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset.
-- <b>Dataset Link:</b> 
+- <b>Dataset Link:</b> [View Full Dataset]([data/netflix_titles.csv](https://github.com/Pallab-dey05/Netflix-SQL-Analytics-Business-Insights-Project./blob/f4d943605c5ea9cd2c20efa440ce3204c4c8ad15/Netflix%20Database.csv))
+ 
 
 ## Findings and Conclusion
 - Content Distribution: The dataset reflects a diverse portfolio of Movies and TV Shows across multiple genres and content ratings, indicating broad content variety and platform-wide audience coverage.
