@@ -1,7 +1,7 @@
 README.md
 
 # Netflix SQL Analytics – Business Insights Project<br>
-
+![image alt](https://github.com/Pallab-dey05/Netflix-SQL-Analytics-Business-Insights-Project./blob/d348e07faa30c24a8b406986d474902daeb4769d/Netflix%20Logo.png)
 
 ## Overview
 
